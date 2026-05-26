@@ -1,0 +1,10 @@
+[
+  {
+    "name": "John Doe",
+    "age": 21,
+    "email": "john@test.com",
+    "course": "JavaScript",
+    "_id": "1779775823315",
+    "createdAt": "2026-05-26T06:10:23.323Z"
+  }
+]
